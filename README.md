@@ -1,5 +1,4 @@
 # SmartSorter
-# AI-SmartSorter 📂🧠
 
 An automated, background file organization system built with Python. It monitors folders in real-time and uses a keyword-based semantic analysis (AI) to sort files into intelligent categories before falling back to default extension-based sorting.
 
