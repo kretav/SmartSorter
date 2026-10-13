@@ -19,8 +19,8 @@ AI_KEYWORD_MAP = {
     'Personal_And_Media': ['photo', 'family', 'music', 'travel', 'personal', 'archive']
 }
 
-# 1.Fixing the way by r''
-target_folder = r'C:\Users\егор4к\OneDrive\Pictures\MSI Wallpaper'
+# 1.Fixing the way by r''. write your folder here
+target_folder = r''
 
 if os.path.exists(target_folder):
     # 2. saving all elements to elements
